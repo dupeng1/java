@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+book:
+  author: dupeng
+  name: spring boot
